@@ -678,22 +678,22 @@ Search.appendIndex(
         },                {
             "fqsen": "\\ShipEngine\\Util\\Json",
             "name": "Json",
-            "summary": "",
+            "summary": "Helper\u0020functions\u0020for\u0020JSON\u0020processing.",
             "url": "classes/ShipEngine-Util-Json.html"
         },                {
             "fqsen": "\\ShipEngine\\Util\\Json\u003A\u003Ajsonize\u0028\u0029",
             "name": "jsonize",
-            "summary": "",
+            "summary": "Take\u0020any\u0020JsonSerializable\u0020object\u0020and\u0020an\u0020array\u0020of\u0020\u0024keys\u0020to\u0020swap\u0020out.",
             "url": "classes/ShipEngine-Util-Json.html#method_jsonize"
         },                {
             "fqsen": "\\ShipEngine\\Util\\Json\u003A\u003Aencode\u0028\u0029",
             "name": "encode",
-            "summary": "",
+            "summary": "Encode\u0020a\u0020JsonSerializable\u0020object,\u0020swapping\u0020out\u0020the\u0020\u0024keys\u0020in\u0020process.",
             "url": "classes/ShipEngine-Util-Json.html#method_encode"
         },                {
             "fqsen": "\\ShipEngine\\Util\\Json\u003A\u003AencodeArray\u0028\u0029",
             "name": "encodeArray",
-            "summary": "",
+            "summary": "Encode\u0020an\u0020array\u0020of\u0020JsonSerializable\u0020objects,\u0020swapping\u0020out\u0020the\u0020\u0024keys\u0020in\u0020the\u0020process.",
             "url": "classes/ShipEngine-Util-Json.html#method_encodeArray"
         },                {
             "fqsen": "\\ShipEngine\\Util\\IsoString",
